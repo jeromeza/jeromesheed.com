@@ -1,4 +1,4 @@
-Jerome Sheed - Resume - Served by the ResumeCards.
+Jerome Sheed's resume - Served ResumeCards.
 
 
 * Original GitHub Project: https://github.com/ellekasai/resumecards
